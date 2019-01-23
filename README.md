@@ -1,1 +1,1 @@
-# WebScrapingWithPython
+Python Web Scraping - Second Edition
